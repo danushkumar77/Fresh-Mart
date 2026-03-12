@@ -1,0 +1,32 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	new file:   src/pages/About.jsx
+#	new file:   src/pages/AdminDashboard.jsx
+#	new file:   src/pages/Cart.jsx
+#	new file:   src/pages/Contact.jsx
+#	new file:   src/pages/Dashboard.jsx
+#	new file:   src/pages/Home.jsx
+#	new file:   src/pages/Login.jsx
+#	new file:   src/pages/Products.jsx
+#
+# Untracked files:
+#	.gitignore
+#	eslint.config.js
+#	index.html
+#	package-lock.json
+#	package.json
+#	public/
+#	screenshot_test.js
+#	src/App.css
+#	src/App.jsx
+#	src/assets/
+#	src/components/
+#	src/context/
+#	src/index.css
+#	src/main.jsx
+#	vite.config.js
+#
